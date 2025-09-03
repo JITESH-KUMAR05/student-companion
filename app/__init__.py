@@ -4,7 +4,7 @@ from pymongo import MongoClient
 from bson.objectid import ObjectId
 from dotenv import load_dotenv
 from flask_login import LoginManager
-import cloudinary # Import cloudinary
+# import cloudinary # Import cloudinary
 
 load_dotenv()
 
